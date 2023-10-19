@@ -28,4 +28,6 @@ The month when the Highest Unit of Goods was sold =VLOOKUP(S14,C1:J701,8,FALSE)
 
 The total Profit recorded in December =SUMIF(J1:J701,"December",M2:M701)
 
+![](Sales_dataset.PNG)
 
+![](Results.PNG)
