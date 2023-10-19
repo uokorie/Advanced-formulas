@@ -49,4 +49,4 @@ The total Profit of £2,514,511.38 generated in december is low, compared to the
 
 In conclusion, This company is not doing well. It's either an urgent strategy is put in place to increase sales in other countries and segments or they focus on the area of their strenght to maximise revenue and profits.
 
-
+![](Sales_final_result.PNG)
