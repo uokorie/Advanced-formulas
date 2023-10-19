@@ -1,10 +1,11 @@
 # Advanced-functions
-**Application of Advanced functions in Excel.
+# Application of Advanced functions in Excel.
 
-**Advanced Excel functions for data analysis are more sophisticated functions that allow users to perform complex calculations and manipulate data effectively. 
+ Advanced Excel functions for data analysis are more sophisticated functions that allow users to perform complex calculations and manipulate data effectively. 
 These functions are especially valuable for in-depth data analysis.
 
-**Task   Using the Sales Data, 
+# Task   
+Using the Sales Data, 
 Calculate:
 The average revenue generated from each sale of ‘Paseo’
 The number of sales made in the Government and Midmarket segment
