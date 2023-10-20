@@ -1,3 +1,64 @@
+## Application of basic formulas and Functions
+
+**Using the Sales Data, determine the following
+The total Revenue and Profit generated
+The average Revenue and Units Sold for every order
+The total Discount given in £
+Total number of sales recorded
+The highest Profit generated
+Create a column named ‘Sales Range’, return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’.**
+
+
+The first thing I did was to make the headers distinct by filling with colour back ground and bold letter.
+I went through each column to assign the right data type by clicking on the drop down under number tab.
+I aligned the data to the center by selecting "center" from alignment tab.
+On column S, I entered the required deliverable as listed below, giving one space inbetween each requirement down the column.
+
+- Total Revenue
+
+- Total Profit
+
+- Average Revenue
+
+- Average units sold
+
+- Total discount given in £
+
+- Total number of sales recorded.
+
+- The highest profit Generated
+
+I made use of the basic funtions in excel as listed below to arrive at the results. 
+
+# =SUM(A2:A701)
+
+# =SUM(L2:L701)
+
+# =AVERAGE(A2:A701)
+
+# =AVERAGE(O2:O701)
+
+# =SUM(F2:F701)
+
+# =SUM(O2:O701)
+
+# =MAX(L2:L701)
+
+
+I inserted a new column "Sales range" on the right side of the "year" column.
+I used the "IF" statement from the basic functions in excel to return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’ as shown below.
+# =IF(A2>$T$10,"high","low"
+
+![](Sales_data2a.PNG)
+
+![](Sales_data2.PNG)
+
+From that above analysis, I can deduce that the profit generated is very low compared to the Revenue generated. This is probably because of the discounts that is over 50% of the profits generated. I recommend that the sales team should put in place some measures and strategies to eliminate/ reduce the percentage of discounts given.
+
+
+
+
+
 # Advanced-functions
 # Application of Advanced functions in Data analysis.
 
