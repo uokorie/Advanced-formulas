@@ -1,4 +1,4 @@
-## Application of basic formulas and Functions
+## Application of basic formulas and Functions in the descriptive analysis of a sample sales data.
 
 **Using the Sales Data, determine the following
 The total Revenue and Profit generated
